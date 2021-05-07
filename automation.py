@@ -3,7 +3,6 @@ import requests
 import time
 import datetime
 import smtplib
-import os
 
 url = "https://www.trendyol.com/turbox/atm9917762-i5-650-turbo-3-46ghz-8gb-ram-240gb-ssd-ofis-bilgisayari-p-37357492"
 shorturl = "https://bit.ly/3urU4To"
